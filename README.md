@@ -1,2 +1,2 @@
 # LittlePreach
-Fazendo um programa que emita beeps no tom da canção citada em "O Pastorzinho".
+Programa que emite beeps no tom da canção citada em "O Pastorzinho".
